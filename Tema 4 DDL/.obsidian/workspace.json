@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "fb09e0ff3673cbe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa384e47d4ac16c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b2984a8640dba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Manejo de restricciones.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "056d701dcf2880d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Dominios de columnas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8375ef7ceb885ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Creación de tablas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75940d40d13ae6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Clave primaria y externa.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e208af23cd59f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Tipos de restricciones en la creación de tablas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01948d60d122b995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Manejo de restricciones.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "943ab68f0a0870a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 Columna Identity.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eca24d91b63c3e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Modificación de la estructura de tablas existentes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34d89797d6c5c572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 Más operaciones sobre las estructuras de las tablas..md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bed2b708cd150253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Índices.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cff664c61872fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Vistas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0969eaef86bdb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aab5ae308823cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61b200254b3290e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3a5d0f92dda6285",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28e5056571a59ab1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4421aa4a65543ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecba55f0db3818cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f112a442d7d5b740",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 Manejo de restricciones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb5bf3c5887fed56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 Manejo de restricciones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61b9b8c4e20c52f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9e37524c60f05da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 Manejo de restricciones.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "36b2984a8640dba8",
+  "lastOpenFiles": [
+    "5 Tipos de restricciones en la creación de tablas.md",
+    "8 Modificación de la estructura de tablas existentes.md",
+    "9 Más operaciones sobre las estructuras de las tablas..md",
+    "6 Manejo de restricciones.md",
+    "1 Lenguaje de Definición de Datos.md",
+    "11 Vistas.md",
+    "10 Índices.md",
+    "7 Columna Identity.md",
+    "7.1 Ejemplos.md",
+    "4 Clave primaria y externa.md",
+    "3 Creación de tablas.md",
+    "2 Dominios de columnas.md",
+    "Practicas/1 Segunda práctica.md",
+    "Practicas",
+    "Welcome.md"
+  ]
+}

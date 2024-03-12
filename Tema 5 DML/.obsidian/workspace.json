@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "cdcf93d98c6e6d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1cad3ec7eed8a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58cd105dd36c9cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Funciones de agregación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9b24aa289cabdfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d22a98be49f9d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d04c2ff044d3245",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6890b34cb454ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ef0b4a49a58852f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4ed044c68c8fe0c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7424a4b894351f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a484ccbc1703396",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10 Funciones de agregación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d89ee6e29e2d75bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 Funciones de agregación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a4f202d94e6933f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b2432483cb0141f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 Funciones de agregación.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "58cd105dd36c9cb1",
+  "lastOpenFiles": [
+    "9 JOIN.md",
+    "10 Funciones de agregación.md",
+    "Pasted image 20240301192829.png",
+    "Pasted image 20240301192813.png",
+    "Pasted image 20240301192805.png",
+    "Pasted image 20240301192746.png",
+    "Pasted image 20240301192733.png",
+    "9.4 LEFT - RIGHT - FULL OUTER JOINS.md",
+    "9.3 JOIN ON.md",
+    "9.2 NATURAL JOIN - JOIN USING.md",
+    "9.1 CROSS JOIN.md",
+    "Pasted image 20240301185802.png",
+    "Pasted image 20240301184716.png",
+    "2 INSERT.md",
+    "8 Consultas con operaciones sobre conjuntos.md",
+    "7 Conversión de tipos de datos.md",
+    "6 Funciones matemáticas.md",
+    "Pasted image 20240216192415.png",
+    "Pasted image 20240216192403.png",
+    "media/Pasted image 20240216192309.png",
+    "Sin título 1.md",
+    "5.3 Ordenación de resultados.md",
+    "5 SELECT.md",
+    "5.2 Condición de la cláusula WHERE.md",
+    "5.1 Evaluación de una consulta.md",
+    "1 Lenguaje de Definición de Datos.md",
+    "4 UPDATE.md",
+    "media",
+    "5 Consulta de datos.md",
+    "3 DELETE.md",
+    "Welcome.md"
+  ]
+}

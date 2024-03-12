@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "2da496df9a2c6b97",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d9a96bf52e36db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bdc4b845190f7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 5 DML/5 SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9d8a28eeec7b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practicas/4 Quinta Práctica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dfc7ca54794e951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practicas/1 Segunda práctica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2c2030fcdc9924f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f207a4519835a67d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed5539f7fe8b2b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c09bcf504eb2336b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98ae6cb765dbb8a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6a51ecb379fb266",
+    "type": "split",
+    "children": [
+      {
+        "id": "a089aaabb59967d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51757cbb415b9afd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practicas/4 Quinta Práctica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bdbfb99cd72426a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Practicas/4 Quinta Práctica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7835ec0aeac8155",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20dbdbbe7e582696",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Practicas/4 Quinta Práctica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4e9d8a28eeec7b68",
+  "lastOpenFiles": [
+    "Tema 5 DML/5 SELECT.md",
+    "Practicas/4 Quinta Práctica.md",
+    "Tema 5 DML/1 Lenguaje de Definición de Datos.md",
+    "Tema 5 DML/8 Consultas con operaciones sobre conjuntos.md",
+    "Tema 5 DML/9 JOIN.md",
+    "Tema 5 DML/9.1 CROSS JOIN.md",
+    "Tema 5 DML/9.2 NATURAL JOIN - JOIN USING.md",
+    "Tema 5 DML/9.3 JOIN ON.md",
+    "Tema 5 DML/9.4 LEFT - RIGHT - FULL OUTER JOINS.md",
+    "Tema 5 DML/10 Funciones de agregación.md",
+    "Tema 5 DML/7 Conversión de tipos de datos.md",
+    "Tema 5 DML/6 Funciones matemáticas.md",
+    "Tema 5 DML/5.3 Ordenación de resultados.md",
+    "Tema 5 DML/5.2 Condición de la cláusula WHERE.md",
+    "Tema 5 DML/5.1 Evaluación de una consulta.md",
+    "Tema 4 DDL/3 Creación de tablas.md",
+    "Practicas/1 Segunda práctica.md",
+    "Tema 5 DML/4 UPDATE.md",
+    "Tema 5 DML/3 DELETE.md",
+    "Tema 5 DML/2 INSERT.md",
+    "Tema 4 DDL/8 Modificación de la estructura de tablas existentes.md",
+    "Practicas/2 Tercera práctica.md",
+    "Tema 5 DML/9 Reuniones de tablas (JOIN).md"
+  ]
+}

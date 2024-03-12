@@ -8,3 +8,5 @@ La sentencia `DELETE` elimina filas existentes en una tabla que cumplan una dete
 * La cláusula `WHERE` puede contener condiciones complejas e incluso otras consultas **anidadas** (lo veremos más adelante). Veamos un ejemplo:
 
 `DELETE FROM cliente WHERE id_cliente = 37;`
+
+[[4 UPDATE]]

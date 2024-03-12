@@ -1,7 +1,7 @@
 
 La sentencia `INSERT` inserta una o varias filas nuevas en una tabla. La sintaxis básica para insertar una fila es:
 
-`INSERT INTO tabla [(col_1. ..., col_k)] VALUES (val_1, ..., val_k);
+`INSERT INTO tabla [(col_1. ..., col_k)] VALUES (val_1, ..., val_k);`
 
 * La lista de valores **debe** contener los valores a insertar.
 * Los caracteres deben ir entre '' comillas simples. Por ejemplo:
@@ -18,3 +18,4 @@ La sentencia `INSERT` inserta una o varias filas nuevas en una tabla. La sintaxi
 
 Donde `tabla_1` es la tabla en la que insertamos la información obtenida de la `tabla_2`.
 
+[[3 DELETE]]

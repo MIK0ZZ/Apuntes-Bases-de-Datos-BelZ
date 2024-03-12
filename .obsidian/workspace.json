@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 5 DML/5 SELECT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9d8a28eeec7b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practicas/4 Quinta Práctica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dfc7ca54794e951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Practicas/1 Segunda práctica.md",
-                "mode": "source",
+                "file": "Tema 5 DML/10 Funciones de agregación.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a6a51ecb379fb266",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practicas/4 Quinta Práctica.md",
+                "file": "Tema 5 DML/10 Funciones de agregación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practicas/4 Quinta Práctica.md",
+                "file": "Tema 5 DML/10 Funciones de agregación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practicas/4 Quinta Práctica.md"
+                "file": "Tema 5 DML/10 Funciones de agregación.md"
               }
             }
           }
@@ -171,30 +147,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e9d8a28eeec7b68",
+  "active": "8bdc4b845190f7d7",
   "lastOpenFiles": [
-    "Tema 5 DML/5 SELECT.md",
-    "Practicas/4 Quinta Práctica.md",
-    "Tema 5 DML/1 Lenguaje de Definición de Datos.md",
-    "Tema 5 DML/8 Consultas con operaciones sobre conjuntos.md",
-    "Tema 5 DML/9 JOIN.md",
-    "Tema 5 DML/9.1 CROSS JOIN.md",
-    "Tema 5 DML/9.2 NATURAL JOIN - JOIN USING.md",
-    "Tema 5 DML/9.3 JOIN ON.md",
     "Tema 5 DML/9.4 LEFT - RIGHT - FULL OUTER JOINS.md",
-    "Tema 5 DML/10 Funciones de agregación.md",
+    "Tema 5 DML/9.3 JOIN ON.md",
+    "Tema 5 DML/9.2 NATURAL JOIN - JOIN USING.md",
+    "Tema 5 DML/9.1 CROSS JOIN.md",
+    "Tema 5 DML/9 JOIN.md",
+    "Tema 5 DML/8 Consultas con operaciones sobre conjuntos.md",
     "Tema 5 DML/7 Conversión de tipos de datos.md",
     "Tema 5 DML/6 Funciones matemáticas.md",
     "Tema 5 DML/5.3 Ordenación de resultados.md",
     "Tema 5 DML/5.2 Condición de la cláusula WHERE.md",
     "Tema 5 DML/5.1 Evaluación de una consulta.md",
-    "Tema 4 DDL/3 Creación de tablas.md",
-    "Practicas/1 Segunda práctica.md",
+    "Tema 5 DML/5 SELECT.md",
     "Tema 5 DML/4 UPDATE.md",
     "Tema 5 DML/3 DELETE.md",
     "Tema 5 DML/2 INSERT.md",
+    "Tema 5 DML/1 Lenguaje de Definición de Datos.md",
+    "Tema 4 DDL/11 Vistas.md",
+    "Tema 4 DDL/10 Índices.md",
+    "Tema 4 DDL/9 Más operaciones sobre las estructuras de las tablas..md",
     "Tema 4 DDL/8 Modificación de la estructura de tablas existentes.md",
-    "Practicas/2 Tercera práctica.md",
-    "Tema 5 DML/9 Reuniones de tablas (JOIN).md"
+    "Tema 4 DDL/7.1 Ejemplos.md",
+    "Tema 4 DDL/7 Columna Identity.md",
+    "Tema 4 DDL/6 Manejo de restricciones.md",
+    "Tema 4 DDL/5 Tipos de restricciones en la creación de tablas.md",
+    "Tema 4 DDL/4 Clave primaria y externa.md",
+    "Tema 4 DDL/3 Creación de tablas.md",
+    "Tema 5 DML/media/Pasted image 20240216192403.png",
+    "Tema 5 DML/media/Pasted image 20240216192415.png"
   ]
 }

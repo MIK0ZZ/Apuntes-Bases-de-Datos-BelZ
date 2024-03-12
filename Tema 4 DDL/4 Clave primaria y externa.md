@@ -10,3 +10,5 @@ Determinar una buena PK es **crucial** para el diseño de la BD. Por ejemplo:
 	* También podríamos crear un código pedido (habría que pensar qué información utilizar).
 
 La clave externa o foránea (FK) es un campo (o conjunto de campos) que son claves en otra tabla.
+
+[[5 Tipos de restricciones en la creación de tablas]]

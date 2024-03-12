@@ -20,3 +20,4 @@ A continuación, se recogen los tipos de datos más importantes.
 | `'10-MAY-2000' - 1-MAY-2000` =  | `9` |
 Oracle dispone de más tipos de datos que puedes consultar en el siguiente enlace.
 
+[[3 Creación de tablas]]

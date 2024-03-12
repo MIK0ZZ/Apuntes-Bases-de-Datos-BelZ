@@ -10,3 +10,5 @@ Se pueden crear índices adicionales para aquellas combinaciones de columnas sob
 Por ejemplo, puede ser conveniente crear índices sobre las claves externas si se espera que se realicen consultas sobre esas combinaciones de columnas.
 
 En cualquier caso, la creación de índices es tarea del **administrador** de la BD.
+
+[[11 Vistas]]

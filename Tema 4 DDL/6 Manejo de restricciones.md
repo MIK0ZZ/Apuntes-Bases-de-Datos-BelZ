@@ -25,3 +25,5 @@ CREATE TABLE impositor(
 	
 );
 ```
+
+[[7 Columna Identity]]

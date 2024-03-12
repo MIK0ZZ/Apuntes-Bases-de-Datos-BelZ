@@ -40,3 +40,4 @@ CREATE TABLE impositor(
 );
 ```
 
+[[6 Manejo de restricciones]]

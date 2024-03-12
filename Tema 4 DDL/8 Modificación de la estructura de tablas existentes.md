@@ -26,3 +26,5 @@
 
 * Activar restricciones.
   `ALTER TABLE tabla ENABLE CONSTRAINT nombre;`
+
+[[9 Más operaciones sobre las estructuras de las tablas.]]

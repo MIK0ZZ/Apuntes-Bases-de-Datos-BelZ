@@ -30,3 +30,7 @@ Supongamos que queremos obtener los nombres de los empleados que trabajan para p
 
 * La consulta final es la siguiente:
   `SELECT Nombre FROM NombreHoras WHERE Horas > (SELECT media FROM MediaHoras);`
+---
+#### Cambio de Tema -> DML 
+
+[[Tema 5 DML/1 Lenguaje de Definición de Datos|1 Lenguaje de Definición de Datos]]

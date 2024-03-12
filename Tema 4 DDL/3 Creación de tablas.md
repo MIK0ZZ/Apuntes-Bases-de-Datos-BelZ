@@ -23,5 +23,5 @@ Las restricciones son condiciones de **obligado cumplimiento** para una o más c
 * Si afectan a varias, se **deben** indicar al final de la definición de la tabla.
 * Por defecto, Oracle asigna un nombre a cada restricción, pero se puede indicar el nombre: `[CONSTRAINT nombre] restricción`
 
-
+[[4 Clave primaria y externa]]
 

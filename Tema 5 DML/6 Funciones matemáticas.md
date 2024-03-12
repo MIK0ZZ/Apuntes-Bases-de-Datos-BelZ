@@ -18,3 +18,5 @@ Se pueden utilizar expresiones y funciones en la cláusula `SELECT` y `WHERE`. E
 ![[Pasted image 20240216192415.png]]
 
 ---
+
+[[7 Conversión de tipos de datos]]

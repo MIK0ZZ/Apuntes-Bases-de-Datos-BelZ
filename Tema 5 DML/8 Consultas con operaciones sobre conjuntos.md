@@ -14,7 +14,7 @@ CREATE TABLE mitabla2 (
 );
 
 CREATE TABLE tabla3 (
-  c3 INTEGER
+	c3 INTEGER
 );
 
 INSERT INTO mitabla1 VALUES (1);
@@ -43,9 +43,11 @@ SELECT c1 FROM tabla1 UNION SELECT c2 FROM tabla2;
 SELECT c1 FROM tabla1 INTERSECT SELECT c2 FROM tabla2;
 // {                              }
 SELECT c1 FROM tabla1 UNION SELECT c3 FROM tabla3;
-// {
+// {                              }
 SELECT c2 FROM tabla2 MINUS SELECT c3 FROM tabla3;
 // {                              }
 SELECT c1 FROM tabla1 INTERSECT SELECT c2 FROM tabla2 INTERSECT SELECT c3 FROM tabla3;
-// {
+// {                              }
 ```
+
+[[9 JOIN]]

@@ -33,3 +33,5 @@ Donde `join_condition` contiene las condiciones para combinar `tabla1` y `tabla2
 - ![[Pasted image 20240301192746.png]]
 - ![[Pasted image 20240301192805.png]]
 - ![[Pasted image 20240301192813.png]]
+
+[[9.1 CROSS JOIN]]

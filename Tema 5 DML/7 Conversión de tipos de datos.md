@@ -9,3 +9,5 @@ Existen funciones de **conversión explícita**. Busca y prueba ejemplos sobre l
 - `TO_NUMBER`: convierte a un string un número.
 - `TO_CHAR`: convierte una fecha o un número a un string.
 - `TO:DATE`: convierte un string a una fecha.
+
+[[8 Consultas con operaciones sobre conjuntos]]

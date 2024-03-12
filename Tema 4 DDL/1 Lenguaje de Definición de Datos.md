@@ -11,5 +11,5 @@ El DDL permite la especificación de la **estructura** de la Base de Datos.
 * Especificación de las **restricciones de integridad**: claves primarias, claves externas, unicidad, valores nulos, etc.
 * Además, se pueden **crear índices** sobre las tablas para acelerar algunas consultas (aunque esto lo hacen los administradores de la BD para ajustar el rendimiento de la BD a bajo nivel).
 
-
+[[2 Dominios de columnas]]
 

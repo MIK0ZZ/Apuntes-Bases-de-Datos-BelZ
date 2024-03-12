@@ -8,7 +8,8 @@ La sentencia `UPDATE` modifica los valores de las filas existentes en una tabla 
 
 La cláusula `WHERE` puede contener condiciones complejas, incluso otras consultas **anidadas**. Veamos dos ejemplos más;
 
-`UPDATE empleado SET sueldo = sueldo*1.1 WHERE dept_ID = '0001';
+`UPDATE empleado SET sueldo = sueldo*1.1 WHERE dept_ID = '0001';`
 
-`UPDATE account SET balance = balance*1.03, comission = 0.25 WHERE empresa_id = 'QPL-IUE-982';
+`UPDATE account SET balance = balance*1.03, comission = 0.25 WHERE empresa_id = 'QPL-IUE-982';`
 
+[[5 SELECT]]

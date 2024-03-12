@@ -10,3 +10,4 @@
 * Borrar el contenido de una tabla.
   `TRUNCATE TABLE tabla;`
 
+[[10 Índices]]
